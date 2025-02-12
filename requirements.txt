@@ -1,5 +1,6 @@
-langchain_groq==0.2.4
-pandas==2.0.2
+langchain_groq==0.2.3
+pandas==2.2.3
 PyPDF2==3.0.1
 python_docx==1.1.2
-streamlit==1.37.1
+streamlit==1.40.2
+streamlit==1.41.1
